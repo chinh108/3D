@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grunt (Madness Combat)
+* source:	https://sketchfab.com/3d-models/grunt-madness-combat-99bdba38dcdb4c16a27e94c49fee9274
+* author:	PBRerri (https://sketchfab.com/PBRerri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grunt (Madness Combat)" (https://sketchfab.com/3d-models/grunt-madness-combat-99bdba38dcdb4c16a27e94c49fee9274) by PBRerri (https://sketchfab.com/PBRerri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
