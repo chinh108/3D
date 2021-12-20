@@ -1,6 +1,6 @@
 import * as THREE from "https://threejs.org/build/three.module.js";
-import {OrbitControls} from "../three.js-master/examples/jsm/controls/OrbitControls.js";
-import {GLTFLoader} from "../three.js-master/examples/jsm/loaders/GLTFLoader.js";
+import {OrbitControls} from "../controls/OrbitControls.js";
+import {GLTFLoader} from "../loaders/GLTFLoader.js";
 
 let scene, camera, renderer, hlight, directionalLight, light, light2, light3, light4, controls;
 
